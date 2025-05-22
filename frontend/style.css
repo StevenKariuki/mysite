@@ -302,6 +302,15 @@
       background: crimson;
   
   } 
+  .about-text{
+        font-size: 20px;
+        font-weight: 500;
+        padding: 10px 30px;
+        margin-top: 20px;
+        border-radius: 50px;
+        border: 2px solid crimson;
+        transition: all 0.3s ease-in-out; 
+  }
   
   
   /* services section styling */
@@ -812,6 +821,8 @@
       background: crimson;
   }
   /* contact section styling */
+
+  
   input,textarea
   {
       caret-color: red;
